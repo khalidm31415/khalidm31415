@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📝 I'm currently learning backend develompent with GO using Gin and GORM.
-- 🎓 I was a math student at Universitas Indonesia, I studied homomorphic encryption application for machine learning.
-- 💻 I was an AI Engineer at bahasa.ai, we used Python with Flask for developing APIs. I've also used Typescript with ExpressJS to develop bots with clients.
+- 📝 I'm currently learning backend develompent with GO using Gin and GORM [here](https://github.com/khalidm31415/gin-twitter). I'm also taking [this course](https://www.udemy.com/course/microservices-with-node-js-and-react/) on microservices with NodeJS and React on Udemy.
+- 💻 I was an AI Engineer at bahasa.ai, we used Flask and Kafka to integrate our services. I've also used Typescript with ExpressJS to develop bots with clients.
+- 🎓 I was a math student at Universitas Indonesia, studied homomorphic encryption applications.
