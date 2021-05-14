@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Khalid 👋
 
 <!--
 **khalidm31415/khalidm31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📝 I'm currently learning backend develompent with GO using Gin and GORM.
+- 🎓 I was a math student at Universitas Indonesia, I studied homomorphic encryption application for machine learning.
+- 💻 I was an AI Engineer at bahasa.ai, we used Python with Flask for developing APIs. I've also used Typescript with ExpressJS to develop bots with clients.
