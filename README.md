@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📝 I'm currently learning backend develompent with GO using Gin and GORM [here](https://github.com/khalidm31415/gin-twitter). I'm also taking [this course](https://www.udemy.com/course/microservices-with-node-js-and-react/) on microservices with NodeJS and React on Udemy.
-- 💻 I was an AI Engineer at bahasa.ai, we used Flask and Kafka to integrate our services. I've also used Typescript with ExpressJS to develop bots with clients.
+- 💻 I was an AI Engineer at bahasa.ai, worked with text classifications, QAs, and formalizations, we integrate our services using Flask and Kafka. I've also used Typescript with ExpressJS to develop bots with clients.
 - 🎓 I was a math student at Universitas Indonesia, studied homomorphic encryption applications.
