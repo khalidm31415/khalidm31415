@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📝 I'm currently learning backend develompent with GO using Gin and GORM [here](https://github.com/khalidm31415/gin-twitter).
-- 💻 I was an AI Engineer at bahasa.ai, worked with text classifications, QAs, and formalizations, we integrate our services using Flask and Kafka. I've also used Typescript with ExpressJS to develop bots with clients.
+- 💻 I was an AI Engineer at bahasa.ai, worked with text classifications, formalizations, and question answering models. We integrate our Python services using Flask and Kafka. I've also used Typescript and Express.js to develop chatbots with clients.
 - 🎓 I was a math student at Universitas Indonesia, studied homomorphic encryption applications.
