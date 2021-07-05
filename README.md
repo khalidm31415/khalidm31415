@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 - 📝 I'm currently learning backend develompent with GO using Gin, GORM, and MySQL [here](https://github.com/khalidm31415/gin-twitter).
 - 📝 Also learning data structures and algorithms on hackerrank: [hackerrank.com/khalidm31415](https://www.hackerrank.com/khalidm31415).
-- 💻 I was an AI Engineer at bahasa.ai, worked with text classifications, formalizations, and question answering models. We integrate our Python services using Flask and Kafka. I've also used Typescript and Express.js to develop chatbots with clients.
+- 💻 I'm currently working as a Backend Engineer at Pahamify.
+- 💻 I was an AI Engineer at Bahasa.ai, worked with text classifications, formalizations, and question answering models. We integrate our Python services using Flask and Kafka. I've also used Typescript and Express.js to develop chatbots with clients.
 - 🎓 I was a math student at Universitas Indonesia, studied homomorphic encryption applications.
