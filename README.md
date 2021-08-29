@@ -1,4 +1,4 @@
-### Hi there, I'm Khalid 👋
+### Hi there, I'm Khalid
 
 <!--
 **khalidm31415/khalidm31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💻 Currently working as a Backend Engineer at Pahamify.
 - 📝 Learning backend develompent with GO using Gin, GORM, and MySQL [here](https://github.com/khalidm31415/gin-twitter).
 - 📝 Also learning data structures and algorithms on hackerrank: [hackerrank.com/khalidm31415](https://www.hackerrank.com/khalidm31415).
-- 💻 I was an AI Engineer at Bahasa.ai, worked with text classifications, formalizations, and question answering models. Used Flask, Transformers, and Kafka. I've also used Typescript and Express.js to develop chatbots with clients.
+- 💻 I was an AI Engineer at Bahasa.ai, worked with text classifications, formalizations, and question answering models. 
 - 🎓 I was a math student at Universitas Indonesia, studied homomorphic encryption applications.
