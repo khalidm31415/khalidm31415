@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - I was a Backend Engineer at Pahamify and Tokopedia, worked using mostly Go and sometimes Node.js.
 - I was an AI Engineer at Bahasa.ai, worked with text classifications, formalizations, and question answering models. 
 - I was a math student at Universitas Indonesia, studied homomorphic encryption applications.
-- Hackerrank: https://www.hackerrank.com/khalidm31415
-- Linkedin: https://www.linkedin.com/in/khalid-muhammad-284263141/
