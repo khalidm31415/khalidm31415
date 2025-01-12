@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I was a Backend Engineer at Pahamify and Tokopedia, worked using mostly Go and sometimes Node.js.
-- I was an AI Engineer at Bahasa.ai, worked with text classifications, formalizations, and question answering models. 
-- I was a math student at Universitas Indonesia, studied homomorphic encryption applications.
+- I'm a Backend Engineer at Zalora.
+- I was a Backend Engineer at Pahamify and Tokopedia, working mostly with Go and sometimes Node.js.
+- I was an AI Engineer at Bahasa.ai, working with text classifications, formalizations, and question-answering models. 
+- I was a math student at Universitas Indonesia and studied homomorphic encryption applications for my thesis.
